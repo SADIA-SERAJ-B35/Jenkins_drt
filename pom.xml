@@ -115,7 +115,7 @@
             
             <configuration>
               <suiteXmlFiles>
-               <suiteXmlFile>Runtime/testng.xml</suiteXmlFile>
+               <suiteXmlFile>PipeLine/${xmlFiles}</suiteXmlFile>
               </suiteXmlFiles>
             </configuration>
           
